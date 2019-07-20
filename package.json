@@ -1,0 +1,24 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ebuka200/nodecourse.git"
+  },
+  "author": "Ebuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ebuka200/nodecourse/issues"
+  },
+  "homepage": "https://github.com/Ebuka200/nodecourse#readme"
+}
